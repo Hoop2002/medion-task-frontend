@@ -1,5 +1,7 @@
 # medion_task_frontend
 
+## Enviroment. Write down the environment variables `sample.env`, create file `.env`
+
 ## Project setup
 ```
 yarn install
